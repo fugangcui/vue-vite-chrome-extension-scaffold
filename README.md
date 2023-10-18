@@ -119,6 +119,16 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 }
 ```
 
+### 样式命名规范
+
+```
+G-xx： 表示全局样式，用来定义公用样式。
+
+P-xx:  表示页面样式，用来设置页面的背景色、尺寸、定制化调整在此页面的组件样式。
+
+M-xx:  表示组件样式，专注组件本身样式。
+
+```
 
 Reference: 
 - [基于Vite4+Vue3的Chrome插件开发教程](https://zhuanlan.zhihu.com/p/651319607)
